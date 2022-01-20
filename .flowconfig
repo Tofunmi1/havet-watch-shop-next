@@ -1,0 +1,13 @@
+/*flow.enable = true*/
+/*flow.pathToFlow = '/usr/bin/flow-language-server' */
+
+[include]
+./pages/for-men.js
+
+[options]
+autoimports=true
+emoji=true
+include_warnings=true
+flow.enable= true
+pathToFlow = /usr/bin/flow-language-server/
+useNPMPackagedFlow = true

@@ -1,0 +1,41 @@
+.container {
+  /*padding: 0 2rem;*/
+}
+.topBanner{
+  aspect-ratio: 16/9;
+  background-size:cover;
+  /*background-repeat:no-repeat;*/
+  background-image:url('../public/pictures/9.jpg');
+  height: 90vh;
+  width:100%;
+  position: absolute;
+
+}
+
+.topBanner .havetWatch{
+  box-sizing:border-box;
+  margin: 200px 30px 20px 70px;
+  position: relative;
+  color:#ffff;
+  height: 20rem;
+  width: 20rem;
+}
+
+.topBanner .havetWatch h1{
+  font-size: 5rem;
+  padding: 5px;
+  margin:5px;
+}
+
+.topBanner .havetWatch p{
+  margin: 10px 10px;
+}
+
+.forWoman{
+
+}
+
+.forMan{
+
+}
+

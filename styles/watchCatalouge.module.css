@@ -1,0 +1,25 @@
+#watchShop {
+
+} 
+
+.watchesTopBanner {
+  position:absolute;
+  height:300px;
+  width:100%;
+  text-align:center;
+  margin-top:95px;
+}
+
+.watchesTopBanner h1 {
+  font-family:NewYorkTypeface;
+  font-size:5rem;
+  font-weight:400;
+}
+
+#watchShop .watchCatalougeArea {
+  box-sizing:content-box; 
+  margin-left:30px;
+  margin-top:600px;
+  width:700px;
+  position:absolute;
+}
